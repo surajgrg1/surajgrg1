@@ -1,16 +1,13 @@
-## Hi there 👋
+# Suraj Gurung | Applied Economics and Statistics | PhD Student | University of Florida
 
-<!--
-**surajgrg1/surajgrg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack 🛠️ (including links to my projects repo)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages & Tools**: Python, Jupyter Notebook, R, STATA, SAS, Git
+- **Machine Learning**:
+    - Supervised: OLS, Logistic regression, XGBoost
+    - Time Series: ARIMA, Scenario Forecasting, Error Correction Model
+    - Deep Learning: PyTorch, Transformer
+    - Unsupervised: clustering, PCA
+- **Causal Inference**: Econometrics (DiD, RD, IV, Synthetic Control, PSM), ML (DoubleML, GRF)
+- **Choice Modeling**: Conditional Logit Model, Mixed Logit, Latent Class Model
+- **Visualization**: Matplotlib (Python), ggplot (R)
