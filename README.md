@@ -1,12 +1,12 @@
 # Suraj Gurung, 
 
-
+I am a PhD student in Applied Economics and Statistics at the University of Florida with experitise in choice modeling, casual inference and machine learning.
 
 ## Tech Stack 🛠️ 
 
 - **Languages & Tools**: R, Python, STATA, SAS, Git, LATEX
 - **Machine Learning**:
-    - Supervised: OLS, Logistic regression, XGBoost
+    - Supervised: OLS, Logistic regression, SVM, Decision Trees & Random Forest 
     - Deep Learning: PyTorch, Transformer
     - Unsupervised: Clustering, PCA
 - **Causal Inference**: Econometrics (DiD, RD, IV, Synthetic Control, PSM)
