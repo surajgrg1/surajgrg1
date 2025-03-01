@@ -1,8 +1,10 @@
-# Suraj Gurung | Applied Economics and Statistics | PhD Student | University of Florida
+# Suraj Gurung, 
 
-## Tech Stack 🛠️ (including links to my projects repo)
 
-- **Languages & Tools**: Python, Jupyter Notebook, R, STATA, SAS, Git
+
+## Tech Stack 🛠️ 
+
+- **Languages & Tools**: R, Python, STATA, SAS, Git, LATEX
 - **Machine Learning**:
     - Supervised: OLS, Logistic regression, XGBoost
     - Time Series: ARIMA, Scenario Forecasting, Error Correction Model
