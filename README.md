@@ -9,6 +9,6 @@ I am a PhD student in Applied Economics and Statistics at the University of Flor
     - Supervised: OLS, Logistic regression, SVM, Decision Trees & Random Forest 
     - Unsupervised: Clustering, PCA
     - Deep Learning: CNN
-- **Causal Inference**: Econometrics (DiD, RD, IV, Synthetic Control, PSM)
+- **Causal Inference**: Econometrics (DiD, RD, IV, Synthetic Control)
 - **Choice Modeling**: Conditional Logit Model, Mixed Logit Model, Latent Class Model
 - **Visualization**: Matplotlib (Python), ggplot (R)
