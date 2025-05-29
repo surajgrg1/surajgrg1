@@ -6,7 +6,7 @@ I am a PhD student in Applied Economics and Statistics at the University of Flor
 
 - **Languages & Tools**: R, Python, STATA, SAS, Git, LATEX
 - **Machine Learning**:
-    - Supervised: OLS, Logistic regression, SVM, Decision Trees & Random Forest 
+    - Supervised: OLS, Logistic regression, Decision Trees, SVM & Random Forest 
     - Unsupervised: Clustering, PCA
     - Deep Learning: CNN
 - **Causal Inference**: Econometrics (DiD, RD, IV, Synthetic Control)
