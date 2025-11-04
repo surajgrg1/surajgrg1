@@ -8,7 +8,7 @@ I am a PhD candidate in Applied Economics and Statistics at the University of Fl
 - **Machine Learning**:
     - Supervised: OLS, Logistic regression, Decision Trees, SVM & Random Forest 
     - Unsupervised: Clustering, PCA, K-Means Clustering
-    - Deep Learning: ANN, CNN, FNCC
+    - Deep Learning: ANN, CNN, Autoencoder
 - **Causal Inference**: Econometrics (DiD, RD, IV, Synthetic Control)
 - **Choice Modeling**: Conditional Logit Model, Mixed Logit Model, Latent Class Model
 - **Visualization**: Matplotlib (Python), ggplot (R)
