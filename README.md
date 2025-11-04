@@ -1,6 +1,6 @@
 # Suraj Gurung, 
 
-I am a PhD student in Applied Economics and Statistics at the University of Florida with experitise in choice modeling, casual inference and machine learning.
+I am a PhD candidate in Applied Economics and Statistics at the University of Florida with expertise in choice modeling, causal inference, and machine learning.
 
 ## Tech Stack 🛠️ 
 
