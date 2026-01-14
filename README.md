@@ -1,6 +1,6 @@
 # Hi, I'm Suraj Gurung 👋
 
-PhD candidate in Applied Economics & Statistics at the University of Florida specializing in machine learning, causal inference, and experimental design. I build end-to-end data science solutions—from survey design and data pipelines to predictive modeling and stakeholder-facing dashboards—translating complex analyses into actionable business insights.
+PhD candidate in Applied Economics & Statistics applying machine learning, causal inference, and experimentation to risk and decisioning problems. I build end-to-end pipelines and validated models to convert complex data into actionable business outcomes.
 
 ## 🔗 Connect
 📧 [surajgurung@ufl.edu](mailto:surajgurung@ufl.edu) • 💼 [LinkedIn](https://linkedin.com/in/surajgrg1/) • 🌐 [Website](https://sites.google.com/udel.edu/suraj-gurung1/home)
