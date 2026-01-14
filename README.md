@@ -1,14 +1,27 @@
 # Hi, I'm Suraj Gurung 👋
 
-PhD candidate in Applied Economics & Statistics at the University of Florida. I build end-to-end analytics—from data pipelines to predictive models and validation—translating complex analyses into decision-ready insights.
+PhD candidate in Applied Economics & Statistics at the University of Florida specializing in machine learning, causal inference, and experimental design. I build end-to-end data science solutions—from survey design and data pipelines to predictive modeling and stakeholder-facing dashboards—translating complex analyses into actionable business insights.
 
 ## 🔗 Connect
 📧 [surajgurung@ufl.edu](mailto:surajgurung@ufl.edu) • 💼 [LinkedIn](https://linkedin.com/in/surajgrg1/) • 🌐 [Website](https://sites.google.com/udel.edu/suraj-gurung1/home)
 
-## 🛠️ Tech Stack
-**Languages**: Python • R • SQL • SAS • Stata  
-**ML/AI**: scikit-learn • TensorFlow • Keras  
-**Tools**: Git • AWS (basic) • Tableau • Power BI • Spark/PySpark
+## 🛠️ Technical Skills
+
+### Programming & Tools
+Python • R • SQL • SAS • Stata • Git • AWS • PySpark
+
+### Machine Learning
+**Supervised**: Logistic Regression, Decision Trees, Random Forest, SVM, Gradient Boosting  
+**Unsupervised**: K-Means, PCA, Hierarchical Clustering  
+**Deep Learning**: Neural Networks (ANN, CNN), Autoencoders  
+**NLP**: Sentiment Analysis, Text Classification
+
+### Statistical Methods
+**Causal Inference**: Difference-in-Differences, Fixed Effects, RD, IV, Synthetic Control  
+**Experimental Design**: A/B Testing, Discrete Choice Experiments, Survey Design
+
+### Data Visualization
+Tableau • Power BI • Matplotlib • Seaborn • ggplot2
 
 ## 📊 Featured Projects
 
